@@ -1,0 +1,28 @@
+{
+    "6165250311": {
+        "unique_device_id": "Google|85a714a6-3df0-4370-bf20-b145dd35dfac",
+        "brand": "Poco",
+        "model": "M2102J20SG",
+        "gpu_renderer": "Adreno (TM) 660",
+        "system_software": "Android OS 13 / API-33",
+        "screen_width": 1080,
+        "screen_height": 2400,
+        "screen_dpi": "413",
+        "memory": 5351,
+        "processor_details": "ARM64 FP ASIMD AES VMH | 2206 | 7",
+        "client_ip": "187.198.91.196"
+    },
+    "6d48cdff58cc11946d1efcb6997f98e2": {
+        "unique_device_id": "Google|73a97156-56ec-4fa1-8d22-6a5455968bb9",
+        "brand": "Xiaomi",
+        "model": "2201122G",
+        "gpu_renderer": "Adreno (TM) 730",
+        "system_software": "Android OS 13 / API-33",
+        "screen_width": 720,
+        "screen_height": 1600,
+        "screen_dpi": "300",
+        "memory": 5712,
+        "processor_details": "ARM64 FP ASIMD AES VMH | 2643 | 10",
+        "client_ip": "175.223.101.93"
+    }
+}
